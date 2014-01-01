@@ -3,5 +3,7 @@
 </br>
 <h1>How to use</h1>
 <ol>
-  
+  <li>Pull the files into a folder of your choice<li>
+  <li>Ensure you have the g++ compiler<li>
+  <li>if you have linux, compile with the command *.cpp within the file directory<li>
 </ol>
